@@ -1,4 +1,4 @@
-# jwt-login-framework
+# Workflow tutorial using jwt-login-framework
 Tutorial by: Aaron S. web-presence.biz - JSON web token login framework 
 "npm nstall" 
 By running "cuncurrently" we start up "http://localhost:5000" with:
